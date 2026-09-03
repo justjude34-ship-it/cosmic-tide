@@ -1,0 +1,19 @@
+{
+  "name": "Cosmic Tide",
+  "short_name": "Cosmic Tide",
+  "description": "Practical astrology inspired by the teachings of Susan Miller. Planning, not predestination.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
